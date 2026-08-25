@@ -10,6 +10,7 @@ public class Calculator
     {
 	    int z=x*x;
 	    return z;
+    }
     public static void main(Strings args[])
     {
 	    Calculator cal = new Calculator();
